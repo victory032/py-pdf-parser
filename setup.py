@@ -40,7 +40,7 @@ setup(
         "test": [
             "ddt==1.6.0",
             "matplotlib==3.5.1",
-            "mock==4.0.3",
+            "mock==5.0.2",
             "nose==1.3.7",
             "pillow==9.2.0",
             "recommonmark==0.7.1",
